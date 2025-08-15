@@ -1,11 +1,24 @@
-- 👋 Hi, I’m Artem (YAG_ARTEM4IK)
-- 👀 I am interested in playing the guitar, playing PC games, walking and programming.
-- 🌱 I am currently studying at school, but I want to go to an electronics college.
-- 💞️ I want to cooperate with both regular employers and regular self-employed people or just programmers
-- 📫 You can contact me via telegram and email
-- ⚡ Fun fact: If a person has been running in place for 10 hours, it might be a treadmill.
+# 👋 Привет, я Артём — Frontend-разработчик 
 
-<!---
-YAGARTEM4IK/YAGARTEM4IK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/YAGARTEM4IK)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/yag_artem)
+
+### 🛠 Технологии и навыки:
+- **HTML5**, **CSS3** — чистая, адаптивная и кроссбраузерная вёрстка  
+- **JavaScript (ES6+)** — интерактивность, анимации, работа с API  
+- **React** — функциональные компоненты, хуки, роутинг  
+- **Bootstrap** — быстрая вёрстка с готовыми компонентами  
+- **Git & GitHub** — контроль версий, деплой на GitHub Pages  
+- **Netlify / Vercel** — размещение проектов  
+
+### 📝 Обо мне:
+- 3 года в веб-разработке  
+- Делаю **статические сайты** и **SPA-приложения**  
+- Выкладываю проекты на **GitHub Pages**, **Netlify**, **Vercel**  
+- Пишу чистый, понятный и поддерживаемый код  
+
+### 📬 Связь:
+- **Telegram**: [@yag_artem](https://t.me/yag_artem)  
+- **Портфолио**: *[добавь ссылку, когда будет]*  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YAGARTEM4IK&show_icons=true&theme=dracula)
