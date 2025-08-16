@@ -19,6 +19,5 @@
 
 ### 📬 Связь:
 - **Telegram**: [@yag_artem](https://t.me/yag_artem)  
-- **Портфолио**: *[добавь ссылку, когда будет]*  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YAGARTEM4IK&show_icons=true&theme=dracula)
